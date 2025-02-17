@@ -1,0 +1,4 @@
+# The-Way-of-Algebra
+A 3rd-person 3D samurai action game aimed at teaching the player to solve linear algebraic equations under pressure, while fighting a group of enemies in a swordfight. A linear equation is displayed in the upper righthand corner of the screen. The player must select the correct arithmetic operation (+, -, *, /), and attack the enemy with the correct number hovering overhead. If the player does this successfully, the equation in the upper righthand corner of the screen will update to reflect the changes. Else, the attack will be unsuccessful, and the enemies will retaliate, dealing damage to the player.
+
+This is a Unity game project. The entire project could not be pushed to GitHub because there were too many large files. Therefore, only the C# scripts that I authored have been pushed. This repository only provides a snapshot of the code that I wrote. If you clone this project, it will not run.
